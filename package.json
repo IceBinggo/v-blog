@@ -1,0 +1,20 @@
+{
+  "name": "vuepress-starter",
+  "version": "1.0.0",
+  "description": "LRB的个人博客",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "keywords": [
+    "LRB"
+  ],
+  "author": "LRB",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/theme-blog": "^2.3.3",
+    "vuepress": "^1.9.7"
+  }
+}
